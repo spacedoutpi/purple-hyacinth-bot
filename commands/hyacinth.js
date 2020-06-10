@@ -53,5 +53,4 @@ exports.run = (client, message, args) => {
     }
     
     message.channel.send(displayPH);
-    //message.channel.send({files: ["./purple-hyacinth/"+randomPHImage+".png"]});
 }
