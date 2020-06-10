@@ -4,4 +4,4 @@ Welcome! I have coded a Purple Hyacinth bot dedicated to the webtoon [Purple Hya
 
 I opened this repository so that if I ever have to move computers (which happens frequently, since I don't have my own laptop yet), I have a backup copy of the code. :D
 
-You can look at it for how I tackled the code for specific commands ig? ¯\_(ツ)_/¯
+You can look at it for how I tackled the code for specific commands ig? *shrugs*
